@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490112218 source:c:\users\matia\onedrive\escritorio\guias\practica para el recuperatorio\pila.c
+	"pila.h"
+
+1490112218 c:\users\matia\onedrive\escritorio\guias\practica para el recuperatorio\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1715807213 source:c:\users\matia\onedrive\escritorio\guias\practica para el recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"time.h"
+	"string.h"
+
